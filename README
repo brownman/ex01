@@ -1,1 +1,36 @@
-This is a sample PHP project
+goal:
+----
+write a guestbook
+
+
+
+Todo:
+-----
+working guestbook:
+    add server-side code
+    add basic html form
+
+add client-side code
+    user can view guestbook
+
+add authorization:
+    login page
+    admin can download cvs
+
+add basic authentication:
+    user can view his posts
+
+remove security valnurabilities
+
+
+
+
+
+Done:
+-----
+create basic php project 
+add git version control
+publish project to github
+deploy the project
+add IDE collaboration
+
