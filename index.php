@@ -10,4 +10,5 @@
   console.log('PaaS:  appFog or openShift');
   console.log('project->pass->update');
   </script>
+  <a href="http://www.w3schools.com/php"> php link <a>
 </html>
